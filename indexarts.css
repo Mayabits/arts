@@ -1,3 +1,11 @@
+@font-face{
+    font-family:"SpecialElite";
+    src:url(fonts/SpecialElite-Regular.ttf);
+}
+@font-face{
+    font-family:"Supermercado";
+    src:url(fonts/SupermercadoOne-Regular.ttf);
+}
 body{
     background-image:url(purpura.jpg);
     position:fixed;
