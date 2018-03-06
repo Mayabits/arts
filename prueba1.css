@@ -1,0 +1,13 @@
+.mapa{
+  background-image: url(img/mapamundi.png);
+  position:fixed;
+  object-position: center;
+}
+p{
+    width:40%;
+    margin-right: 150%;
+}
+button{
+    width:100%;
+    height: 500%;
+}
