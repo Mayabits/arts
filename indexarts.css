@@ -12,9 +12,8 @@ body{
     text-decoration-color: #93949B;
 }
 h1{
-    background-image: url(rain%20gif.jpg);
     width:90%;
-    color:darkslategrey;
+    text-decoration-color:#BE97C6;
     position:fixed;
     text-align: center;
     margin-right:5%;
@@ -30,7 +29,7 @@ h1{
     font-size: 12pt;
     margin-top: 70px;
     padding-bottom: 130px;
-    background-image:url(sylvia-plath-450x450-9ae9-ff91-b5a2.jpg);
+    background-color:rgba(177, 183, 209,0.5);
 }
 #parllaxsimpe{
     background-image: url(bluestreet.jpg);
